@@ -28,7 +28,7 @@ int main (){
     scanf("%f", &Pib);
 
     printf("digite quantos pontos turisticos tem na cidade: \n");
-    scanf("%d\n", &Turismo);
+    scanf("%d", &Turismo);
 
     printf("carta 1\n");
     printf("O estado é: %s\n", estado);
